@@ -29,6 +29,8 @@ const ayush = {
 
 > **[Therealayus/Metaflux](https://github.com/Therealayus/Metaflux)** — premium AI-native Meta integration & automation platform.
 > Modular monolith (`apps/web · apps/api · apps/worker + packages/*`) with clean boundaries ready to extract to microservices.
+>
+> ![CI](https://github.com/Therealayus/Metaflux/actions/workflows/ci.yml/badge.svg?branch=main) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Node 20](https://img.shields.io/badge/node-20-339933?logo=node.js&logoColor=white)
 
 **One-line employer pitch:** I built a multi-tenant, audited, rate-limited AI gateway to Meta — with safe AI execution, durable workflows, and production ops baked in.
 
