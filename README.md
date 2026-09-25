@@ -1,13 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=185&section=header&text=AYUSH%20GUPTA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20—%20I%20build%20SocialFlux%20%7C%20Open%20to%20Work&descAlignY=62&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0c4a6e&height=200&section=header&text=AYUSH%20GUPTA&fontSize=48&fontColor=ffffff&stroke=38bdf8&strokeWidth=1&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20—%20SocialFlux%20Builder%20—%20Open%20to%20Work&descAlignY=60&descSize=14)
 
 <p align="center">
-  <a href="https://github.com/Therealayus/Metaflux"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=SocialFlux+%E2%80%94+Talk+to+Meta.+We+handle+the+APIs.;AI-native+automation+%2B+human-in-the-loop+safety;Next.js+14+%2B+Fastify+%2B+Postgres+%2B+Redis+%2B+Workers;p95+22ms+%7C+idempotent+%7C+multi-tenant+%7C+audited" alt="Typing SVG" /></a>
+  <a href="https://github.com/Therealayus/Metaflux"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=SocialFlux+%E2%80%94+Talk+to+Meta.+We+handle+the+APIs.;AI-native+automation+%2B+human-in-the-loop+safety;Next.js+14+%2B+Fastify+%2B+Postgres+%2B+Redis+%2B+Workers;p95+22ms+%7C+idempotent+%7C+multi-tenant+%7C+audited" alt="SocialFlux — Talk to Meta. We handle the APIs." /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN_TO_WORK-Backend_%2F_Full--Stack_%2F_AI_Platform-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=Therealayus&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
+  <br/>
   <img src="https://img.shields.io/badge/FLAGSHIP-SocialFlux__Metaflux-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8" alt="Flagship SocialFlux" />
+  <img src="https://komarev.com/ghpvc/?username=Therealayus&style=flat-square&color=0f172a&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ```typescript
@@ -144,4 +145,4 @@ Natural language → LLM → Structured plan → Validation → Permission → P
 
 > Open to Backend / Full-Stack / Platform roles (remote-friendly). I bring AI-safe execution, multi-tenant APIs, durable workers, and docs employers can audit — ready for interview deep-dives on architecture, scaling, and trade-offs.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,100:020617&height=120&section=footer)
